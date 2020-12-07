@@ -152,7 +152,7 @@ GET --> `https://gw-us.xiaoyi.com/v5/devices/deviceinfo?uids=CAMERA_ID&hmac=XXXX
 {
     "code": "20000",
     "data": {
-        "TNPUSAH-397670-SRZKW": {
+        "CAMERA_ID": {
             "appParam": {},
             "timezone": "Europe/Paris",
             "model": "6",
